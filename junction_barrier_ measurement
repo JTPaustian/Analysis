@@ -1,0 +1,2 @@
+#This is a script to allow the user to enter inputs to measure the physical properties of a junction, using labrad, a 
+#Sim900, and a SR850. It can take inputs for the min offset, max offset, steps, sine amplitude, and sine frequency.
